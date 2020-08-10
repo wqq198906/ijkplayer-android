@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-support-v4-23.0.1_ab9d2dcc8b61def68464055e4088a0d8f1e59ea8.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/internal_impl-23.0.1_551d522b3cb61024130b255c7ab6646c5ef4c623.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-x86/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="7cff9e30e910e2a5288bfeb1eb5c808fee3c39f1">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/ijkplayer-ijkplayer-x86-unspecified_e0f1adcc06ef0f2d7e4aa7d6cdd55b3a10723c6b.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-appcompat-v7-23.0.1_b180cb1e27396ea27f963327b7db0d66f2100a42.jar" />
+    </item>
+    <item
+        jar="/home/wqq/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/23.0.1/1fce89a6428c51467090d7f424e4c9c3dbd55f7e/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/support-annotations-23.0.1_7af7740531fbaedae8490aed6fec6ec74fa988d0.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-recyclerview-v7-23.0.1_ceaab05af12a9c0c0d34c0e4ccfce55a147ef60b.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-exo/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="f42af154940cc2e839d46c5076346fe408622cd9">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/ijkplayer-ijkplayer-exo-unspecified_da5fe2b22f26d17f173bdb3dd79d1a2c1f9ae356.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-java/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="f043aa332688743feb7e9a26435ff1d922d9bcea">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/ijkplayer-ijkplayer-java-unspecified_145d43791bdf5aaf1baa51c4122c5cbc235632da.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-armv7a/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="362420197241cbd51fb49a523cde19f4d9454c19">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/ijkplayer-ijkplayer-armv7a-unspecified_2a98809c88cc1da7ace0b345fa1384d886300b5c.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.android.support/preference-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="e27d0df01afa01bd384f91a3c41998133e9235a0">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.android.support-preference-v7-23.0.1_b55f306220d1e1f3dd11009f41152b5c8b457546.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/ijkplayer/ijkplayer-armv5/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="367f7bbe4b774ec5dc17908e4f6f7989b58216d7">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/ijkplayer-ijkplayer-armv5-unspecified_f21ab6d314936f7736c061c0dd0a4453f2ad0d38.jar" />
+    </item>
+    <item
+        jar="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.11/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/com.google.android.exoplayer-exoplayer-r1.5.11_6f5ffb043a5ad363ebf2e5d6f213d8d083751319.jar" />
+    </item>
+    <item
+        jar="/home/wqq/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/media/psf/share_git/ijkplayer-android/android/ijkplayer/ijkplayer-example/build/intermediates/pre-dexed/all32/debug/otto-1.3.8_a46b86afe522fe9597367894b922e2a94a8a28c5.jar" />
+    </item>
+
+</items>
