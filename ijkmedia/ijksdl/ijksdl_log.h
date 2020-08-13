@@ -69,6 +69,15 @@
 
 #endif
 
+//#define __DEBUG__
+#ifdef __DEBUG__
+#define VLOG(level, TAG, ...)    ((void)vprintf(__VA_ARGS__))
+#define ALOG(level, TAG, ...)    ((void)printf(__VA_ARGS__))
+#else
+#define VLOG(level, TAG, ...)
+#define ALOG(level, TAG, ...)
+#endif
+
 #define IJK_LOG_TAG "IJKMEDIA"
 
 #define VLOGV(...)  VLOG(IJK_LOG_VERBOSE,   IJK_LOG_TAG, __VA_ARGS__)
